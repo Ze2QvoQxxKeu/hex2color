@@ -1,1 +1,1 @@
-# hex2color
+![Screenshot](https://i.ibb.co/sK5mVSL/screen.png)
